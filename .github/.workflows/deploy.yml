@@ -1,0 +1,25 @@
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jetli/trunk-action@v0.2.0
+
+      - uses: actions/checkout@v3
+        with:
+          repository: nigeleke/nigeleke.github.io_source
+          path: nigeleke.github.io_source
+
+      - name: Validate build & release
+        run: |
+          cd nigeleke.github.io_source
+          rustup target add wasm32-unknown-unknown
+          cargo install wasm-bindgen-cli
+          cargo fmt -- --check
+          cargo clippy -- -Dwarnings -Aclippy::let_unit_value
+          cargo test
+          trunk build --release
+          mv -Rf dist/* ..
