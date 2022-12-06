@@ -12,6 +12,8 @@ jobs:
         with:
           repository: nigeleke/nigeleke.github.io_source
           path: src0
+          ref: main
+          fetch-depth: 0
 
       - name: Validate build & release
         run: |
