@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nigeleke.github.io/sitemap.xml
