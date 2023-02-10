@@ -1,0 +1,63 @@
+@use "color";
+
+html {
+  height: -webkit-fill-available;
+  min-height: -webkit-fill-available;
+}
+
+* {
+  color: color.$text-theme;
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient(45deg, color.$theme-d1 50%, color.$theme-l2 100%);
+  min-height: -webkit-fill-available;
+}
+
+header {
+  font-size: 1.5rem;
+}
+
+footer {
+  font-size: 0.75rem;
+  padding-bottom: 10px;
+}
+
+input {
+  color: color.$theme-d4;
+  background-color: color.$theme-l2;
+  border: 1;
+}
+
+datalist {
+  color: color.$theme-d4;
+  background-color: color.$theme-l2;
+}
+
+datalist option::hover,
+datalist option::focus {
+  color: color.$theme-l2;
+  background-color: color.$theme-d4;
+  outline: 0 none;
+}
+
+a {
+  text-decoration: none;
+  color: color.$text-theme;
+}
+
+a:hover {
+  color: color.$theme-l3;
+}
+
+code {
+  font-family: monospace;
+  font-size: 0.9rem;
+  line-height: normal;
+  white-space: pre;
+}
+
+nav {
+  font-size: 1rem;
+}
