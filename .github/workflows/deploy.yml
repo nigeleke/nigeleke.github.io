@@ -15,7 +15,7 @@ jobs:
       - name: Validate build & release
         run: |
           choco install zola
-          zola build
+          zola build --output-dir docs
 
       - name: Publish
         run: |
