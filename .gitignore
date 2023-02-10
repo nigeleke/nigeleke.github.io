@@ -1,6 +1,5 @@
 .github/
 dist/
-public/
 target/
 
 .idea/
