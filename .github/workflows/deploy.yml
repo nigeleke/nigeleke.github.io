@@ -1,28 +1,28 @@
-on: workflow_dispatch
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jetli/trunk-action@v0.2.0
-
-      - uses: actions/checkout@v3
         with:
-          repository: nigeleke/nigeleke.github.io_source
-          path: src0
-          ref: main
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Validate build & release
         run: |
-          cd src0
-          rustup target add wasm32-unknown-unknown
-          cargo install wasm-bindgen-cli
-          cargo fmt -- --check
-          cargo clippy -- -Dwarnings -Aclippy::let_unit_value
-          cargo test
-          trunk build --release
-          mv -Rf dist/* ..
+          choco install zola
+          zola build
+
+      - name: Publish
+        run: |
+          git config --global user.email "nigeleke@users.noreply.github.com"
+          git config --global user.name "Nigel Eke"
+          git checkout gh-pages
+          cp -r ./public/* .
+          git add .
+          git commit -m "Release"
+          git push
