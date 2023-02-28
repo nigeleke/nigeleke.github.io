@@ -3,7 +3,7 @@ title = "Projects"
 date = 2023-01-03
 +++
 
-## Current Projects
+## Current
 
 | Project                                          | Status                                                                                                                                                                                  | Version                                                                         | Test Coverage                                                                                                                   |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,6 +12,6 @@ date = 2023-01-03
 | [life](https://github.com/nigeleke/life)         | [![Build](https://img.shields.io/github/actions/workflow/status/nigeleke/life/acceptance.yml?style=plastic)](https://github.com/nigeleke/life/actions/workflows/acceptance.yml)         | ![Version](https://img.shields.io/github/v/tag/nigeleke/life?style=plastic)     | [![Coverage](https://img.shields.io/codecov/c/github/nigeleke/life?style=plastic)](https://codecov.io/gh/nigeleke/life)         |
 | [ohmic](https://github.com/nigeleke/ohmic)       | [![Build](https://img.shields.io/github/actions/workflow/status/nigeleke/ohmic/acceptance.yml?style=plastic)](https://github.com/nigeleke/ohmic/actions/workflows/acceptance.yml)       | ![Version](https://img.shields.io/github/v/tag/nigeleke/ohmic?style=plastic)    | [![Coverage](https://img.shields.io/codecov/c/github/nigeleke/ohmic?style=plastic)](https://codecov.io/gh/nigeleke/ohmic)       |
 
-## New Projects
+## New
 
 `sbt new nigeleke/scala-seed.g8`
