@@ -14,4 +14,4 @@ date = 2023-01-03
 
 ## New
 
-`sbt new nigeleke/scala-seed.g8`
+[`sbt new nigeleke/scala-seed.g8`](https://github.com/nigeleke/scala-seed.g8)
