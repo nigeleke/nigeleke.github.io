@@ -57,7 +57,7 @@ hard_link_static = false
 #
 taxonomies = [
     { name = "categories", feed = true, paginate_by = 10 },
-    { name = "tags", fees = true, paginate_by = 10 },
+    { name = "tags", feed = true, paginate_by = 10 },
 ]
 
 # When set to "true", a search index is built from the pages and section
@@ -136,7 +136,7 @@ include_content = true
 [translations]
 
 # Additional languages definition
-# You can define language specific config values and translations: 
+# You can define language specific config values and translations:
 # title, description, generate_feed, feed_filename, taxonomies, build_search_index
 # as well as its own search configuration and translations (see above for details on those)
 [languages]
@@ -196,12 +196,25 @@ linkedin = "ratanshreshtha"
 stackoverflow = "3728911"
 email = "deepthought@gmail.com"
 twitter = "RatanShreshtha"
-mastodon = "@RatanShreshtha"
-#orcid = ""
-#google_scholar = ""
+reddit = "RatanShreshtha"
+instagram = "RatanShreshtha"
+mastodon_username = "@RatanShreshtha"
+mastodon_server = "mastodon.social"
+discord = "RatanShreshtha"
+behance = "RatanShreshtha"
+youtube = "RatanShreshtha"
+tumblr = "RatanShreshtha"
+twitch = "RatanShreshtha"
+dev = "RatanShreshtha"
+bitbucket = "RatanShreshtha"
+medium = "RatanShreshtha"
+soundcloud = "RatanShreshtha"
+googleplay = "RatanShreshtha"
+orcid = "RatanShreshtha"
+google_scholar = "RatanShreshtha"
 
 [extra.analytics]
-google = "UA-176984489-2"
+google = "G-JPHGX4YXVE"
 
 [extra.commenting]
 disqus = "deepthought-theme"

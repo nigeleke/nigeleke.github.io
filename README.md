@@ -3,20 +3,18 @@
 ## Build
 
 ```bash
-zola build
+$ export NIXPKGS_ALLOW_UNFREE=1
+$ nix develop --impure
+$ zola build
 ```
 
 ## Run Locally
 
 ```bash
-zola serve
+$ zola serve
 ```
 Browse [http://localhost:1111](http://127.0.0.1:1111/)
 
 ## Publish
 
-### from Windows
-
-```powershell
-.\release\deploy.ps1
-```
+GitHub workflow `deploy.yml`
