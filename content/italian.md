@@ -2,9 +2,15 @@
 title = "Italian"
 date = 2023-10-20
 +++
+## Background and Warning
+
+These are my student notes and probably include many mistakes; be careful using this as a reference.
+
+Gaps (?????) will be complete as / when / if I get to them.
+
 ## Contents
-- [Contents](#contents)
 - [Background and Warning](#background-and-warning)
+- [Contents](#contents)
 - [Basics](#basics)
 - [Verbs](#verbs)
   - [Regular Endings](#regular-endings)
@@ -32,12 +38,6 @@ date = 2023-10-20
 - [Possesive](#possesive)
 - [Questions](#questions)
 
-
-## Background and Warning
-
-These are my student notes and probably include many mistakes; be careful using this as a reference.
-
-Gaps (?????) will be complete as / when / if I get to them.
 
 ## Basics
 
