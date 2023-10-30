@@ -13,7 +13,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 - [Contents](#contents)
 - [Basics](#basics)
 - [Verbs](#verbs)
-  - [Regular Endings](#regular-endings)
+  - [Regular Verb Endings](#regular-verb-endings)
   - [Regular Verbs](#regular-verbs)
   - [Irregular Verbs](#irregular-verbs)
 - [Nouns](#nouns)
@@ -59,7 +59,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ## Verbs
 
-### Regular Endings
+### Regular Verb Endings
 
 | Pronoun | -are  | -ere  | -ire  |
 |---------|-------|-------|-------|
