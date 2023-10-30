@@ -2,6 +2,37 @@
 title = "Italian"
 date = 2023-10-20
 +++
+## Contents
+- [Contents](#contents)
+- [Background and Warning](#background-and-warning)
+- [Basics](#basics)
+- [Verbs](#verbs)
+  - [Regular Endings](#regular-endings)
+  - [Regular Verbs](#regular-verbs)
+  - [Irregular Verbs](#irregular-verbs)
+- [Nouns](#nouns)
+  - [General](#general)
+  - [Animals](#animals)
+  - [Buildings / Places](#buildings--places)
+  - [Clothing](#clothing)
+  - [Countries](#countries)
+  - [Food / Restaurant](#food--restaurant)
+  - [Furniture](#furniture)
+  - [Numbers](#numbers)
+  - [People](#people)
+  - [Professions](#professions)
+  - [Time / Date](#time--date)
+    - [Days](#days)
+    - [Months](#months)
+    - [Seasons](#seasons)
+  - [Transport](#transport)
+- [Adjectives](#adjectives)
+  - [General](#general-1)
+  - [Colours](#colours)
+- [Possesive](#possesive)
+- [Questions](#questions)
+
+
 ## Background and Warning
 
 These are my student notes and probably include many mistakes; be careful using this as a reference.
@@ -76,19 +107,6 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ## Nouns
 
-- General
-- Animals
-- Buildings/Places
-- Clothing
-- Countries
-- Food/Restaurant
-- Furniture
-- Numbers
-- People
-- Professions
-- Time / Date
-- Transport
-
 ### General
 
 | English   | Italian     |              |
@@ -115,7 +133,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Shark      | lo squalo  | ????? |
 | Wolf/ves   | il lupo    | ????? |
 
-### Buildings/Places
+### Buildings / Places
 
 | English      | Italian       |       |
 |--------------|---------------|-------|
