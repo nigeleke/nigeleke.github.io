@@ -10,10 +10,12 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ## Basics
 
-| Pronoun | m(s) | m(pl) | f   | f(pl) |
-|---------|------|-------|-----|-------|
-| A       | un   | -     | una | -     |
-| The     | il   | gli   | la  | le    |
+| Pronoun | m(s)   | m(pl) | f   | f(pl) |
+|---------|--------|-------|-----|-------|
+| A       | un     | -     | una | -     |
+| The     | il <br/> lo / l' (*)    | i <br/> gli     | la  | le    |
+
+(*) words starting `'s' + consonant`; `z`; `p + s`; `y`; `vowel`
 
 | Pronoun        | To be      | To have    |
 |----------------|------------|------------|
@@ -84,6 +86,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 - Numbers
 - People
 - Professions
+- Time / Date
 - Transport
 
 ### General
@@ -286,6 +289,55 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Waiter             | cameriere/a          |
 | Worker             | operaio/a            |
 
+### Time / Date
+
+#### Days
+
+| English   | Italian      |              |
+|-----------|--------------|--------------|
+| Monday    | lunedi       |              |
+| Tuesday   | martedi      |              |
+| Wednesday | mercoledi    |              |
+| Thursday  | giovedi      |              |
+| Friday    | venerdi      |              |
+| Saturday  | sabato       |              |
+| Sunday    | domenica     |              |
+| -         | -            | -            |
+| day       | il giorno    | i giorni     |
+| week      | la settimana | le settimane |
+
+
+#### Months
+
+| English   | Italian    |          |
+|-----------|------------|----------|
+| January   | gennaio    |          |
+| February  | febbraio   |          |
+| March     | marzo      |          |
+| April     | aprile     |          |
+| May       | maggio     |          |
+| June      | glugno     |          |
+| July      | luglio     |          |
+| August    | agosto     |          |
+| September | settembre  |          |
+| October   | ottobre    |          |
+| November  | novembre   |          |
+| December  | dicembre   |          |
+| -         | -          | -        |
+| month     | il mese    | i mesi   |
+| year      | l'anno (m) | gli anni |
+
+#### Seasons
+
+| English | Italian       |             |
+|---------|---------------|-------------|
+| Spring  | la primavera  |             |
+| Summer  | l'estate (m)  |             |
+| Autumn  | l'autunno (m) |             |
+| Winter  | l'inverno     |             |
+| -       | -             | -           |
+| season  | la stagione   | le stagioni |
+
 ### Transport
 
 | English | Italian  |       |
@@ -320,3 +372,21 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Ours                  | nostro        | nostri    | nostra | nostre    |
 | Yours (formal)        | vostro        | vostri    | vostra | vostre    |
 | Theirs                | ?????         | ?????     | ?????  | ?????     |
+
+## Questions
+
+| English           | Italian       |
+|-------------------|---------------|
+| How / what?       | come?         |
+| How many?         | quanti?       |
+| How much?         | (per) quanto? |
+| What?             | che?          |
+| What?             | che cosa?     |
+| What?             | cosa?         |
+| What time?        | a che ora?    |
+| (from) what time? | da che ora?   |
+| Where from?       | di dove?      |
+| Which?            | qual?         |
+| Which?            | quali?        |
+| Who?              | chi?          |
+| Why?              | perché?       |
