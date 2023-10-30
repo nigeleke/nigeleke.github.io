@@ -19,15 +19,15 @@ Gaps (?????) will be complete as / when / if I get to them.
 - [Nouns](#nouns)
   - [General](#general)
   - [Animals](#animals)
-  - [Buildings / Places](#buildings--places)
+  - [Buildings Places](#buildings-places)
   - [Clothing](#clothing)
   - [Countries](#countries)
-  - [Food / Restaurant](#food--restaurant)
+  - [Food Restaurant](#food-restaurant)
   - [Furniture](#furniture)
   - [Numbers](#numbers)
   - [People](#people)
   - [Professions](#professions)
-  - [Time / Date](#time--date)
+  - [Time Date](#time-date)
     - [Days](#days)
     - [Months](#months)
     - [Seasons](#seasons)
@@ -133,7 +133,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Shark      | lo squalo  | ????? |
 | Wolf/ves   | il lupo    | ????? |
 
-### Buildings / Places
+### Buildings Places
 
 | English      | Italian       |       |
 |--------------|---------------|-------|
@@ -180,7 +180,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Spain       | Spanish    | Spagna      | spagnolo/a    |
 | Switzerland | Swiss      | Svizzera    | svizzero/a    |
 
-### Food / Restaurant
+### Food Restaurant
 
 | English       | Italian        |              |
 |---------------|----------------|--------------|
@@ -307,7 +307,7 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Waiter             | cameriere/a          |
 | Worker             | operaio/a            |
 
-### Time / Date
+### Time Date
 
 #### Days
 
