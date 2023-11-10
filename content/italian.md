@@ -41,10 +41,10 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ## Basics
 
-| Pronoun | m(s)   | m(pl) | f   | f(pl) |
-|---------|--------|-------|-----|-------|
-| A       | un     | -     | una | -     |
-| The     | il <br/> lo / l' (*)    | i <br/> gli     | la  | le    |
+| Pronoun | m(s)                 | m(pl)       | f   | f(pl) |
+|---------|----------------------|-------------|-----|-------|
+| A       | un                   | -           | una | -     |
+| The     | il <br/> lo / l' (*) | i <br/> gli | la  | le    |
 
 (*) words starting `'s' + consonant`; `z`; `p + s`; `y`; `vowel`
 
@@ -263,20 +263,20 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ### People
 
-| English       | Italian    |             |
-|---------------|------------|-------------|
-| Boy/s         | il ragazzo | gli ragazzi |
-| Father/s      | il padre   | ?????       |
-| Friend (m)    | il amico   | ?????       |
-| Friend (f)    | la amica   | ?????       |
-| Girl/s        | la ragazza | le ragazze  |
-| Husband       | il marito  | ?????       |
-| Man/men       | il uomo    | gli uomini  |
-| Mother        | la madre   | ?????       |
-| Neighbour (m) | il vicino  | ?????       |
-| Neighbour (f) | la vicina  | ?????       |
-| Wife          | la moglie  | ?????       |
-| Woman/women   | la donna   | le donne    |
+| English       | Italian     |             |
+|---------------|-------------|-------------|
+| Boy/s         | il ragazzo  | gli ragazzi |
+| Father/s      | il padre    | ?????       |
+| Friend (m)    | il amico    | ?????       |
+| Friend (f)    | l'amica (f) | ?????       |
+| Girl/s        | la ragazza  | le ragazze  |
+| Husband       | il marito   | ?????       |
+| Man/men       | il uomo     | gli uomini  |
+| Mother        | la madre    | ?????       |
+| Neighbour (m) | il vicino   | ?????       |
+| Neighbour (f) | la vicina   | ?????       |
+| Wife          | la moglie   | ?????       |
+| Woman/women   | la donna    | le donne    |
 
 ### Professions
 
