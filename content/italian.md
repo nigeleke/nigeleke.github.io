@@ -61,42 +61,55 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ### Regular Verb Endings
 
-| Pronoun | -are  | -ere  | -ire  |
-|---------|-------|-------|-------|
-| Io      | -o    | ????? | ????? |
-| Tu      | -e    | ????? | ????? |
-| Lui/lei | -a    | ????? | ????? |
-| Noi     | -iamo | ????? | ????? |
-| Voi     | -ete  | ????? | ????? |
-| Loro    | -ono  | ????? | ????? |
+| Pronoun | -are  | -ere  | -ire (1) | -ire (2) |
+|---------|-------|-------|----------|----------|
+| Io      | -o    | -o    | -o       | -isco    |
+| Tu      | -e    | -i    | -i       | -isci    |
+| Lui/lei | -a    | -e    | -e       | -isce    |
+| Noi     | -iamo | -iamo | -iamo    | -iamo    |
+| Voi     | -ete  | -ite  | -ite     | -ite     |
+| Loro    | -ono  | -ono  | -ono     | -iscono  |
 
 ### Regular Verbs
 
-| English      | Italian              |
-|--------------|----------------------|
-| To arrive    | arrivare             |
-| To buy       | comprare             |
-| To eat       | mangiare             |
-| To greet     | salutare             |
-| To iron      | stirare              |
-| To listen    | ascoltare            |
-| To live      | abitare              |
-| To look      | guardare             |
-| To look for  | cercare              |
-| To love      | amare                |
-| To name      | chiamare (reflexive) |
-| To present   | presentare           |
-| To rent      | affitare             |
-| To return    | tornare              |
-| To skate     | pattinare            |
-| To stay      | stare                |
-| To study     | studiare             |
-| To swim      | nuotare              |
-| To talk      | parlare              |
-| To telephone | telefonare           |
-| To thank     | ringraziare          |
-| To walk      | passeggiare          |
-| To work      | lavorare             |
+| English       | Italian              |
+|---------------|----------------------|
+| To arrive     | arrivare             |
+| To buy        | comprare             |
+| To clean      | pulire (2)           |
+| To close      | chiudere             |
+| To eat        | mangiare             |
+| To greet      | salutare             |
+| To iron       | stirare              |
+| To know       | conoscere            |
+| To leave      | partire (1)          |
+| To listen     | ascoltare            |
+| To live       | abitare              |
+| To look       | guardare             |
+| To look for   | cercare              |
+| To love       | amare                |
+| To name       | chiamare (reflexive) |
+| To offer      | offrire (1)          |
+| To open       | aprire (1)           |
+| To prefer     | preferire (2)        |
+| To present    | presentare           |
+| To read       | leggere              |
+| To rent       | affitare             |
+| To return     | tornare              |
+| To run        | correre              |
+| To skate      | pattinare            |
+| To sleep      | dormire (1)          |
+| To stay       | stare                |
+| To study      | studiare             |
+| To swim       | nuotare              |
+| To take       | prendere             |
+| To talk       | parlare              |
+| To telephone  | telefonare           |
+| To thank      | ringraziare          |
+| To understand | capire (2)           |
+| To walk       | passeggiare          |
+| To work       | lavorare             |
+| To write      | scrivere             |
 
 ### Irregular Verbs
 
@@ -182,37 +195,37 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ### Food Restaurant
 
-| English       | Italian        |              |
-|---------------|----------------|--------------|
-| Appertizer    | il antipasto   | ?????        |
-| Apple/s       | la mela        | le mele      |
-| Banana/s      | la banana      | le banane    |
-| Bread         | il pane        |              |
-| Coffee        | le caffè       | ?????        |
-| Curry/s       | il curry       | ?????        |
-| Croissant     | il cornetto    | ?????        |
-| Dressing      | il condimento  | ?????        |
-| First course  | il primo       | ?????        |
-| Fish          | il pesce       | ????? pesci  |
-| Ice cream     | il gelato      | ?????        |
-| Kebab/s       | lo spiedino    | ?????        |
-| Meatball/s    | ?????          | le polpette  |
-| Menu/s        | il menu        | ?????        |
-| Noodles       |                | i taglierini |
-| Omelette/s    | la frittata    | ?????        |
-| Pasta         | la pasta       |              |
-| Pie/s         | il pasticcio   | ?????        |
-| Rice          | il riso        |              |
-| Roast/s       | l'arrosto (m)  | ?????        |
-| Salad         | l'insalata (f) | ?????        |
-| Second course | il secondo     | ?????        |
-| Stir fry      | la frittura    |              |
-| Souffle/s     | il soufflé     | ?????        |
-| Stew/s        | lo stufato     | ?????        |
-| Soup/s        | la zuppa       | ?????        |
-| Tea/s         | il tè          | ?????        |
-| Water         | l'acqua (f)    |              |
-| Wine          | il vino        | ?????        |
+| English       | Italian         |              |
+|---------------|-----------------|--------------|
+| Appertizer    | l'antipasto (m) | ?????        |
+| Apple/s       | la mela         | le mele      |
+| Banana/s      | la banana       | le banane    |
+| Bread         | il pane         |              |
+| Coffee        | le caffè        | ?????        |
+| Curry/s       | il curry        | ?????        |
+| Croissant     | il cornetto     | ?????        |
+| Dressing      | il condimento   | ?????        |
+| First course  | il primo        | ?????        |
+| Fish          | il pesce        | ????? pesci  |
+| Ice cream     | il gelato       | ?????        |
+| Kebab/s       | lo spiedino     | ?????        |
+| Meatball/s    | ?????           | le polpette  |
+| Menu/s        | il menu         | ?????        |
+| Noodles       |                 | i taglierini |
+| Omelette/s    | la frittata     | ?????        |
+| Pasta         | la pasta        |              |
+| Pie/s         | il pasticcio    | ?????        |
+| Rice          | il riso         |              |
+| Roast/s       | l'arrosto (m)   | ?????        |
+| Salad         | l'insalata (f)  | ?????        |
+| Second course | il secondo      | ?????        |
+| Stir fry      | la frittura     |              |
+| Souffle/s     | il soufflé      | ?????        |
+| Stew/s        | lo stufato      | ?????        |
+| Soup/s        | la zuppa        | ?????        |
+| Tea/s         | il tè           | ?????        |
+| Water         | l'acqua (f)     |              |
+| Wine          | il vino         | ?????        |
 
 ### Furniture
 
