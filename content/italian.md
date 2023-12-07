@@ -113,10 +113,21 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ### Irregular Verbs
 
-| English | Italian |
-|---------|---------|
-| To do   | fare    |
-| To go   | andare  |
+| English | Italian |                |
+|---------|---------|----------------|
+| To do   | fare    | io faccio      |
+|         |         | tu fai         |
+|         |         | lui/lei/Lei fa |
+|         |         | noi facciamo   |
+|         |         | voi fate       |
+|         |         | loro fanno     |
+| To go   | andare  | io vado        |
+|         |         | tu vai         |
+|         |         | lui/lei/Lei va |
+|         |         | noi andiamo    |
+|         |         | voi andate     |
+|         |         | loro vanno     |
+
 
 ## Nouns
 
