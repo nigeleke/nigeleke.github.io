@@ -3,7 +3,6 @@
     nixpkgs.url = "github:NixOS/nixpkgs/master";
   };
 
-
   outputs = { nixpkgs, systems, ... }:
     let
       system = "x86_64-linux";
