@@ -14,6 +14,10 @@ Gaps (?????) will be complete as / when / if I get to them.
 - [Basics](#basics)
 - [Verbs](#verbs)
   - [Regular Verb Endings](#regular-verb-endings)
+    - [Presente (do)](#presente-do)
+    - [Futuro (will do)](#futuro-will-do)
+    - [Passato Prossimo (did)](#passato-prossimo-did)
+    - [Imperfetto (used to do)](#imperfetto-used-to-do)
   - [Regular Verbs](#regular-verbs)
   - [Irregular Verbs](#irregular-verbs)
 - [Nouns](#nouns)
@@ -61,6 +65,8 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ### Regular Verb Endings
 
+#### Presente (do)
+
 | Pronoun | -are  | -ere  | -ire (1) | -ire (2) |
 |---------|-------|-------|----------|----------|
 | Io      | -o    | -o    | -o       | -isco    |
@@ -69,6 +75,39 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Noi     | -iamo | -iamo | -iamo    | -iamo    |
 | Voi     | -ete  | -ite  | -ite     | -ite     |
 | Loro    | -ono  | -ono  | -ono     | -iscono  |
+
+#### Futuro (will do)
+
+| Pronoun | -are    | -ere | -ire (1) | -ire (2) |
+|---------|---------|------|----------|----------|
+| Io      | -erò    | ???  | ???      | ???      |
+| Tu      | -erai   | ???  | ???      | ???      |
+| Lui/lei | -erà    | ???  | ???      | ???      |
+| Noi     | -eramo  | ???  | ???      | ???      |
+| Voi     | -erete  | ???  | ???      | ???      |
+| Loro    | -eranno | ???  | ???      | ???      |
+
+#### Passato Prossimo (did)
+
+| Pronoun | -are         | -ere | -ire (1) | -ire (2) | or | -are                                     | -ere | -ire (1) | -ire (2) |
+|---------|--------------|------|----------|----------|----|------------------------------------------|------|----------|----------|
+| Io      | ho -ato      | ???  | ???      | ???      |    | sono -ato (m)<br/> sono -ata (f)         | ???  | ???      | ???      |
+| Tu      | hai -ato     | ???  | ???      | ???      |    | sei -ato (m)<br/> sei -ata (f)           | ???  | ???      | ???      |
+| Lui/lei | ha -ato      | ???  | ???      | ???      |    | è -ato (m)<br/> è -ata (f)               | ???  | ???      | ???      |
+| Noi     | abbiamo -ato | ???  | ???      | ???      |    | siamo -ati (m / m+f)<br/> siamo -ate (f) | ???  | ???      | ???      |
+| Voi     | avete -ato   | ???  | ???      | ???      |    | siete -ati (m / m+f)<br/> siete -ate (f) | ???  | ???      | ???      |
+| Loro    | hanno -ato   | ???  | ???      | ???      |    | sono -ati (m / m+f)<br/> sone -ate (f)   | ???  | ???      | ???      |
+
+#### Imperfetto (used to do)
+
+| Pronoun | -are   | -ere | -ire (1) | -ire (2) |
+|---------|--------|------|----------|----------|
+| Io      | -avo   | ???  | ???      | ???      |
+| Tu      | -avi   | ???  | ???      | ???      |
+| Lui/lei | -ava   | ???  | ???      | ???      |
+| Noi     | -avamo | ???  | ???      | ???      |
+| Voi     | -avate | ???  | ???      | ???      |
+| Loro    | -avano | ???  | ???      | ???      |
 
 ### Regular Verbs
 
@@ -113,21 +152,32 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 ### Irregular Verbs
 
-| English | Italian |                |
-|---------|---------|----------------|
-| To do   | fare    | io faccio      |
-|         |         | tu fai         |
-|         |         | lui/lei/Lei fa |
-|         |         | noi facciamo   |
-|         |         | voi fate       |
-|         |         | loro fanno     |
-| To go   | andare  | io vado        |
-|         |         | tu vai         |
-|         |         | lui/lei/Lei va |
-|         |         | noi andiamo    |
-|         |         | voi andate     |
-|         |         | loro vanno     |
-
+| English | Italian | Presente       | Futuro | Passato Prossimo | Imperfetto |
+|---------|---------|----------------|--------|------------------|------------|
+| To have | avere   | io ho          |        |                  |            |
+|         |         | tu hai         |        |                  |            |
+|         |         | lui/lei/Lei ha |        |                  |            |
+|         |         | noi abbiamo    |        |                  |            |
+|         |         | voi avete      |        |                  |            |
+|         |         | loro avono     |        |                  |            |
+| To be   | essere  | io sono        |        |                  |            |
+|         |         | tu sei         |        |                  |            |
+|         |         | lui/lei/Lei è  |        |                  |            |
+|         |         | noi siamo      |        |                  |            |
+|         |         | voi siete      |        |                  |            |
+|         |         | loro sono      |        |                  |            |
+| To do   | fare    | io faccio      |        |                  |            |
+|         |         | tu fai         |        |                  |            |
+|         |         | lui/lei/Lei fa |        |                  |            |
+|         |         | noi facciamo   |        |                  |            |
+|         |         | voi fate       |        |                  |            |
+|         |         | loro fanno     |        |                  |            |
+| To go   | andare  | io vado        |        |                  |            |
+|         |         | tu vai         |        |                  |            |
+|         |         | lui/lei/Lei va |        |                  |            |
+|         |         | noi andiamo    |        |                  |            |
+|         |         | voi andate     |        |                  |            |
+|         |         | loro vanno     |        |                  |            |
 
 ## Nouns
 
@@ -136,40 +186,40 @@ Gaps (?????) will be complete as / when / if I get to them.
 | English   | Italian     |              |
 |-----------|-------------|--------------|
 | Book/s    | il libro    | i libri      |
-| Dinner/s  | la cena     | ?????        |
-| House/s   | la casa     | ?????        |
+| Dinner/s  | la cena     | le cene      |
+| House/s   | la casa     | le case      |
 | Student/s | lo studente | gli studenti |
 
 ### Animals
 
-| English    | Italian    |       |
-|------------|------------|-------|
-| Bee/s      | l'ape (m)  | ????? |
-| Bull       | il toro    | ????? |
-| Cow/s      | ?????      |       |
-| Dolphin    | il defino  | ????? |
-| Elephant/s | ?????      | ????? |
-| Fly        | la mosca   | ????? |
-| Lion/s     | ?????      | ????? |
-| Monkey/ies | la scimmia | ????? |
-| Mouse      | il topo    | ????? |
-| Penguin    | ?????      | ????? |
-| Shark      | lo squalo  | ????? |
-| Wolf/ves   | il lupo    | ????? |
+| English    | Italian        |              |
+|------------|----------------|--------------|
+| Bee/s      | l'ape (m)      | l'api        |
+| Bull       | il toro        | i tori       |
+| Cow/s      | la muccca      | le mucche    |
+| Dolphin    | il defino      | i delfini    |
+| Elephant/s | l'elefante (m) | gli elefanti |
+| Fly        | la mosca       | le mosche    |
+| Lion/s     | il leone       | i leoni      |
+| Monkey/ies | la scimmia     | le scimmie   |
+| Mouse      | il topo        | i topi       |
+| Penguin    | il pinguino    | i pinguini   |
+| Shark      | lo squalo      | gli squali   |
+| Wolf/ves   | il lupo        | i lupi       |
 
 ### Buildings Places
 
-| English      | Italian       |       |
-|--------------|---------------|-------|
-| Bank/s       | la banca      | ????? |
-| Cafe/s       | la bar        | ????? |
-| Church/es    | la chiese     | ????? |
-| Hotel/s      | il hotel      | ????? |
-| Restaurant/s | il ristorante | ????? |
-| Store        | il negozio    | ????? |
-| Square       | la piazza     | ????? |
-| Station      | la stazione   | ????? |
-| Theatre      | il teatro     | ????? |
+| English      | Italian       |              |
+|--------------|---------------|--------------|
+| Bank/s       | la banca      | le banche    |
+| Cafe/s       | la bar        | ?????        |
+| Church/es    | la chiese     | le chiese    |
+| Hotel/s      | il hotel      | ?????        |
+| Restaurant/s | il ristorante | i ristoranti |
+| Store        | il negozio    | i negozi     |
+| Square       | la piazza     | le piazze    |
+| Station      | la stazione   | le stationi  |
+| Theatre      | il teatro     | i teatri     |
 
 ### Clothing
 
@@ -217,13 +267,13 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Croissant     | il cornetto     | ?????        |
 | Dressing      | il condimento   | ?????        |
 | First course  | il primo        | ?????        |
-| Fish          | il pesce        | ????? pesci  |
+| Fish          | il pesce        | i pesci      |
 | Ice cream     | il gelato       | ?????        |
 | Kebab/s       | lo spiedino     | ?????        |
 | Meatball/s    | ?????           | le polpette  |
-| Menu/s        | il menu         | ?????        |
+| Menu/s        | il menù         | i menù       |
 | Noodles       |                 | i taglierini |
-| Omelette/s    | la frittata     | ?????        |
+| Omelette/s    | la frittata     | le frittate  |
 | Pasta         | la pasta        |              |
 | Pie/s         | il pasticcio    | ?????        |
 | Rice          | il riso         |              |
