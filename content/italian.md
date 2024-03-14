@@ -52,14 +52,14 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 (*) words starting `'s' + consonant`; `z`; `p + s`; `y`; `vowel`
 
-| Pronoun        | To be      | To have    |
-|----------------|------------|------------|
-| I              | Io sono    | Io ho      |
-| You (informal) | Tu sei     | Tu hai     |
-| He/she         | Lui/lei è  | Lui/lei ha |
-| We             | Noi siamo  | Noi ?????  |
-| You (formal)   | Voi siette | Voi ?????  |
-| They           | Loro sono  | Loro ????? |
+| Pronoun        | To be      | To have     |
+|----------------|------------|-------------|
+| I              | Io sono    | Io ho       |
+| You (informal) | Tu sei     | Tu hai      |
+| He/she         | Lui/lei è  | Lui/lei ha  |
+| We             | Noi siamo  | Noi abbiamo |
+| You (formal)   | Voi siette | Voi avete   |
+| They           | Loro sono  | Loro hanno  |
 
 ## Verbs
 
@@ -89,14 +89,27 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 #### Passato Prossimo (did)
 
-| Pronoun | -are         | -ere | -ire (1) | -ire (2) | or | -are                                     | -ere | -ire (1) | -ire (2) |
-|---------|--------------|------|----------|----------|----|------------------------------------------|------|----------|----------|
-| Io      | ho -ato      | ???  | ???      | ???      |    | sono -ato (m)<br/> sono -ata (f)         | ???  | ???      | ???      |
-| Tu      | hai -ato     | ???  | ???      | ???      |    | sei -ato (m)<br/> sei -ata (f)           | ???  | ???      | ???      |
-| Lui/lei | ha -ato      | ???  | ???      | ???      |    | è -ato (m)<br/> è -ata (f)               | ???  | ???      | ???      |
-| Noi     | abbiamo -ato | ???  | ???      | ???      |    | siamo -ati (m / m+f)<br/> siamo -ate (f) | ???  | ???      | ???      |
-| Voi     | avete -ato   | ???  | ???      | ???      |    | siete -ati (m / m+f)<br/> siete -ate (f) | ???  | ???      | ???      |
-| Loro    | hanno -ato   | ???  | ???      | ???      |    | sono -ati (m / m+f)<br/> sone -ate (f)   | ???  | ???      | ???      |
+With `to have`:
+
+| Pronoun | -are         | -ere | -ire (1) | -ire (2) |
+|---------|--------------|------|----------|----------|
+| Io      | ho -ato      | ???  | ???      | ???      |
+| Tu      | hai -ato     | ???  | ???      | ???      |
+| Lui/lei | ha -ato      | ???  | ???      | ???      |
+| Noi     | abbiamo -ato | ???  | ???      | ???      |
+| Voi     | avete -ato   | ???  | ???      | ???      |
+| Loro    | hanno -ato   | ???  | ???      | ???      |
+
+or with `to be`:
+
+| Pronoun | -are                                     | -ere | -ire (1) | -ire (2) |
+|---------|------------------------------------------|------|----------|----------|
+| Io      | sono -ato (m)<br/> sono -ata (f)         | ???  | ???      | ???      |
+| Tu      | sei -ato (m)<br/> sei -ata (f)           | ???  | ???      | ???      |
+| Lui/lei | è -ato (m)<br/> è -ata (f)               | ???  | ???      | ???      |
+| Noi     | siamo -ati (m / m+f)<br/> siamo -ate (f) | ???  | ???      | ???      |
+| Voi     | siete -ati (m / m+f)<br/> siete -ate (f) | ???  | ???      | ???      |
+| Loro    | sono -ati (m / m+f)<br/> sone -ate (f)   | ???  | ???      | ???      |
 
 #### Imperfetto (used to do)
 
