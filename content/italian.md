@@ -52,14 +52,14 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 (*) words starting `'s' + consonant`; `z`; `p + s`; `y`; `vowel`
 
-| Pronoun        | To be      | To have     |
-|----------------|------------|-------------|
-| I              | Io sono    | Io ho       |
-| You (informal) | Tu sei     | Tu hai      |
-| He/she         | Lui/lei è  | Lui/lei ha  |
-| We             | Noi siamo  | Noi abbiamo |
-| You (formal)   | Voi siette | Voi avete   |
-| They           | Loro sono  | Loro hanno  |
+| Pronoun        | To be     | To have     |
+|----------------|-----------|-------------|
+| I              | Io sono   | Io ho       |
+| You (informal) | Tu sei    | Tu hai      |
+| He/she         | Lui/lei è | Lui/lei ha  |
+| We             | Noi siamo | Noi abbiamo |
+| You (formal)   | Voi siete | Voi avete   |
+| They           | Loro sono | Loro hanno  |
 
 ## Verbs
 
