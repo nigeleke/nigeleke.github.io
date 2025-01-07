@@ -3,18 +3,18 @@
 ## Build
 
 ```bash
-$ nix develop
-$ zola build
+rustup update
+cargo install dioxus-cli
 ```
 
-## Run Locally
+## Serve locally
 
 ```bash
-$ zola serve
+dx serve
 ```
 
-Browse [http://localhost:1111](http://127.0.0.1:1111/)
+Browse: [http://localhost:8080/](http://localhost:8080/)
 
 ## Publish
 
-GitHub workflow `deploy.yml`
+Github worflow `deploy.yml`

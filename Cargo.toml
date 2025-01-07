@@ -1,0 +1,28 @@
+[package]
+name = "site"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dioxus = { version = "0.6", features = ["router"] }
+pulldown-cmark = "0.12.2"
+
+[lib]
+name = "site"
+path = "src/lib.rs"
+
+[features]
+default = ["web"]
+web = ["dioxus/web"]
+
+[profile]
+
+[profile.wasm-dev]
+inherits = "dev"
+opt-level = 1
+
+[profile.server-dev]
+inherits = "dev"
+
+[profile.android-dev]
+inherits = "dev"
