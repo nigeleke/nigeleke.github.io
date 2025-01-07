@@ -9,4 +9,4 @@ name = "nigeleke-github-io"
 title = "nigeleke-github-io"
 
 [web.watcher]
-watch_path = ["src", "public", "markdown"]
+watch_path = ["src", "assets", "markdown"]

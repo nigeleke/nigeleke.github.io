@@ -2,6 +2,7 @@
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     --background-colour: #f8f8ff;
     --text-colour: #717171;
+    --text-colour-dark: hsl(from var(--text-colour) h s 25%);
     --border-colour: #546f82;
     --border-colour-light: hsl(from var(--border-colour) h s 60%);
     --border-text-colour: #f8f8ff;
@@ -9,10 +10,18 @@
 
 html,
 body {
-    background-color: var(--background-colour);
+    background-color: var(--background-color);
     color: var(--text-colour);
     margin: 0px;
     padding: 0px;
+}
+
+@media (prefers-color-scheme: dark) {
+    html,
+    body {
+        background-color: var(--text-colour-dark);
+        color: var(--background-colour);
+    }
 }
 
 main {
@@ -74,6 +83,12 @@ a {
     color: var(--text-colour);
 }
 
+@media (prefers-color-scheme: dark) {
+    a {
+        color: var(--background-color);
+    }
+}
+
 a:hover {
     background-color: var(--border-colour-light);
     color: var(--border-text-colour);
@@ -85,4 +100,11 @@ table {
 
 th {
     text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+    img {
+        background-color: ghostwhite;
+        padding: 5px;
+    }
 }
