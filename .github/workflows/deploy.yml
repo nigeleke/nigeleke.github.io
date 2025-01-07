@@ -30,7 +30,7 @@ jobs:
                   rm -R ./docs
                   echo "222222"
                   ls
-                  mv target/dx/site/release/web/public/* docs/
+                  mv target/dx/site/release/web/public docs
                   echo "222222"
                   ls
                   ls docs/
