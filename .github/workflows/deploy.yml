@@ -25,15 +25,8 @@ jobs:
                   git config --global user.email "nigeleke@users.noreply.github.com"
                   git config --global user.name "Nigel Eke"
                   git checkout gh-pages
-                  echo "1111111"
-                  ls
                   rm -R ./docs
-                  echo "222222"
-                  ls
                   mv target/dx/site/release/web/public docs
-                  echo "222222"
-                  ls
-                  ls docs/
                   git add .
                   git commit -m "Release"
                   git push
