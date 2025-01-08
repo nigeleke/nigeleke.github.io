@@ -1,27 +1,36 @@
 :root {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    --background-colour: #f8f8ff;
-    --text-colour: #717171;
-    --text-colour-dark: hsl(from var(--text-colour) h s 25%);
     --border-colour: #546f82;
-    --border-colour-light: hsl(from var(--border-colour) h s 60%);
+    --border-colour-highlight: hsl(from var(--border-colour) h s 60%);
     --border-text-colour: #f8f8ff;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --background-colour: #f8f8ff;
+        --text-colour: #616161;
+        --image-background-highlight: hsl(
+            from var(--background-colour) h s 97%
+        );
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-colour: #4a4a4a;
+        --text-colour: var(--border-text-colour);
+        --image-background-highlight: hsl(
+            from var(--background-colour) h s 60%
+        );
+    }
 }
 
 html,
 body {
-    background-color: var(--background-color);
+    background-color: var(--background-colour);
     color: var(--text-colour);
     margin: 0px;
     padding: 0px;
-}
-
-@media (prefers-color-scheme: dark) {
-    html,
-    body {
-        background-color: var(--text-colour-dark);
-        color: var(--background-colour);
-    }
 }
 
 main {
@@ -44,7 +53,7 @@ footer a {
 
 header a:hover,
 footer a:hover {
-    background-color: var(--border-colour-light);
+    background-color: var(--border-colour-highlight);
 }
 
 header {
@@ -83,14 +92,8 @@ a {
     color: var(--text-colour);
 }
 
-@media (prefers-color-scheme: dark) {
-    a {
-        color: var(--background-color);
-    }
-}
-
 a:hover {
-    background-color: var(--border-colour-light);
+    background-color: var(--border-colour-highlight);
     color: var(--border-text-colour);
 }
 
@@ -102,9 +105,8 @@ th {
     text-align: left;
 }
 
-@media (prefers-color-scheme: dark) {
-    img {
-        background-color: ghostwhite;
-        padding: 5px;
-    }
+img {
+    background-color: var(--image-background-highlight);
+    padding: 10px;
+    border-radius: 10px;
 }
