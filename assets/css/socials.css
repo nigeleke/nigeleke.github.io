@@ -1,6 +1,8 @@
 .socials {
     justify-self: center;
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     padding-top: 100px;
     gap: 40px;
 }

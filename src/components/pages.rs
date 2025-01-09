@@ -1,4 +1,5 @@
 use crate::components::centered::Centered;
+use crate::components::headshot::HeadShot;
 use crate::components::socials::Socials;
 use crate::components::Markdown;
 use crate::components::Template;
@@ -12,6 +13,7 @@ pub fn Home() -> Element {
     rsx! {
         Template {
             Socials { }
+            HeadShot { }
         }
     }
 }
