@@ -9,7 +9,7 @@ pub fn Template(children: Element) -> Element {
     rsx! {
         document::Link { rel: "stylesheet", href: asset!("/assets/css/main.css") }
         main {
-            header{ SiteTitle {} Menu {} }
+            header { SiteTitle {} Menu {} }
             section {
                 {children}
             }

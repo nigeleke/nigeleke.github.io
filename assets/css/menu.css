@@ -1,4 +1,51 @@
+.menu-button {
+    background-color: var(--border-colour);
+    border: none;
+}
+.menu-icon {
+    height: 16px;
+}
+
 nav {
+    background-color: var(--border-colour);
     display: flex;
     gap: 10px;
+}
+
+@media (max-width: 768px) {
+    .menu-button {
+        display: block;
+        anchor-name: --menu-button;
+    }
+    nav {
+        flex-direction: column;
+        gap: 15px;
+        position: absolute;
+        position-anchor: --menu-button;
+        inset: auto;
+        top: anchor(bottom);
+        right: anchor(right);
+        margin-block-start: 5px;
+        padding: 20px;
+        display: none;
+        opacity: 0;
+        transition:
+            display 250ms,
+            opacity 250ms;
+        transition-behavior: allow-discrete;
+    }
+    nav:popover-open {
+        display: flex;
+        opacity: 1;
+        @starting-style {
+            display: flex;
+            opacity: 0;
+        }
+    }
+}
+
+@media (min-width: 769px) {
+    .menu-button {
+        display: none;
+    }
 }
