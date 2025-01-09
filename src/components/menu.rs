@@ -13,8 +13,6 @@ pub fn Menu() -> Element {
         }
     };
 
-    let auto = use_signal(|| menu_button_visible.read().then_some("auto"));
-
     rsx! {
         document::Link { rel: "stylesheet", href: asset!("/assets/css/menu.css") }
         div {
@@ -31,7 +29,7 @@ pub fn Menu() -> Element {
             }
             nav {
                 id: "menu-nav",
-                popover: "auto",
+                popover: if menu_button_visible() { "auto" },
                 Link { to: Route::Home {},
                     "home"
                 }
