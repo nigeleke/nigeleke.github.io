@@ -1,4 +1,3 @@
-mod centered;
 mod headshot;
 mod markdown;
 mod menu;
