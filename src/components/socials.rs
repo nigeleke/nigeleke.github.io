@@ -1,3 +1,5 @@
+use super::external_link::ExternalLink;
+
 use dioxus::prelude::*;
 
 const FACEBOOK: Asset = asset!("/assets/images/facebook.png");
@@ -22,12 +24,11 @@ pub fn Socials() -> Element {
 #[component]
 fn Social(href: String, img_src: Asset, alt: String) -> Element {
     rsx! {
-        a {
-            href: href,
-            target: "_blank",
+        ExternalLink {
+            href,
+            quiet: true,
             img {
                 src: img_src,
-                alt: alt,
                 width: "30",
                 height: "30",
             }

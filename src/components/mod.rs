@@ -1,3 +1,4 @@
+mod external_link;
 mod headshot;
 mod markdown;
 mod menu;
