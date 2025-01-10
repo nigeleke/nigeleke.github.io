@@ -1,6 +1,7 @@
 .github/
 dist/
 target/
+docs0/
 
 .idea/
 
