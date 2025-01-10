@@ -2,7 +2,7 @@
 name = "nigeleke-github-io"
 
 [web.app]
-title = "niGel eKe - personal website"
+title = "niGel eKe - personal site"
 
 [web.watcher]
 watch_path = ["src", "assets", "markdown"]

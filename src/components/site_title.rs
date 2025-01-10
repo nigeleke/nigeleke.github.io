@@ -4,9 +4,10 @@ use dioxus::prelude::*;
 pub fn SiteTitle() -> Element {
     rsx! {
         document::Link { rel: "stylesheet", href: asset!("/assets/css/title.css") }
-        span {
+        a {
            class: "title",
-           "Nigel Eke - Personal Website"
+           href: "https://nigeleke.github.io/",
+           "niGel eKe - personal site"
         }
     }
 }
