@@ -1,12 +1,8 @@
 [application]
-
-# App (Project) Name
 name = "nigeleke-github-io"
 
 [web.app]
-
-# HTML title tag content
-title = "nigeleke-github-io"
+title = "niGel eKe - personal website"
 
 [web.watcher]
 watch_path = ["src", "assets", "markdown"]
