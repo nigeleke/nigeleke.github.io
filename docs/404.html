@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>nigeleke-github-io</title>
+        <title>niGel eKe - personal site</title>
         <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="UTF-8" />
@@ -14,7 +14,7 @@
         />
         <link rel="preload" href="/./wasm/site.js" as="script" />
         <link rel="icon" href="/assets/favicon-60ba2c1021516161.ico" />
-        <link rel="stylesheet" href="/assets/not_found-f34e965ca841527e.css" />
+        <link rel="stylesheet" href="/assets/not_found-6f75772bd9748c49.css" />
         <link rel="stylesheet" href="/assets/main-e9c14e977d104bd5.css" />
         <link
             rel="stylesheet"
@@ -28,34 +28,11 @@
             <!--placeholder--><!--placeholder--><!--placeholder-->
             <main>
                 <header>
-                    <!--placeholder--><span class="title"
-                        >Nigel Eke - Personal Website</span
+                    <!--placeholder--><a
+                        class="title"
+                        href="https://nigeleke.github.io/"
+                        >niGel eKe - personal site</a
                     ><!--placeholder-->
-                    <div>
-                        <button
-                            class="menu-button"
-                            popovertarget="menu-nav"
-                            tabindex="0"
-                            data-dioxus-id="14"
-                        >
-                            <img
-                                class="menu-icon"
-                                alt="Site menu toggle"
-                                src="/assets/icon-menu-a2a22d4e76434ac9.png"
-                            />
-                        </button>
-                        <nav id="menu-nav" popover="auto">
-                            <a data-dioxus-id="27" href="/">home</a
-                            ><a data-dioxus-id="25" href="/italian">italian</a
-                            ><a data-dioxus-id="23" href="/projects">projects</a
-                            ><a data-dioxus-id="21" href="/reference"
-                                >reference</a
-                            ><a data-dioxus-id="19" href="/apis">apis</a
-                            ><a data-dioxus-id="17" href="/useful-info"
-                                >useful info</a
-                            >
-                        </nav>
-                    </div>
                 </header>
                 <section>
                     <div class="not-found-container">
@@ -86,15 +63,5 @@
                 </footer>
             </main>
         </div>
-        <script>
-            // We can't use a module script here because we need to start the script immediately when streaming
-            import("/./wasm/site.js").then(({ default: init }) => {
-                init("/./wasm/site_bg.wasm").then((wasm) => {
-                    if (wasm.__wbindgen_start == undefined) {
-                        wasm.main();
-                    }
-                });
-            });
-        </script>
     </body>
 </html>
