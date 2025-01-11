@@ -27,7 +27,7 @@ jobs:
                   git checkout gh-pages
                   rm -R ./docs
                   mv target/dx/site/release/web/public docs
-                  mv public/* docs/
+                  mv public/ docs/
                   git add .
                   git commit -m "Release"
                   git push
