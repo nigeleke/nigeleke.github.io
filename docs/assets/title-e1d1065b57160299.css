@@ -1,1 +1,1 @@
-.title{font-size:xx-large}@media (width<=768px){.title{font-size:x-large}}
+.title{font-size:xx-large}@media (max-width:768px){.title{font-size:x-large}}
