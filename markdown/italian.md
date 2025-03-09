@@ -8,41 +8,6 @@ These are my student notes and probably include many mistakes; be careful using 
 
 Gaps (?????) will be complete as / when / if I get to them.
 
-## Contents
-- [Background and Warning](#background-and-warning)
-- [Contents](#contents)
-- [Basics](#basics)
-- [Verbs](#verbs)
-  - [Regular Verb Endings](#regular-verb-endings)
-    - [Presente (do)](#presente-do)
-    - [Futuro (will do)](#futuro-will-do)
-    - [Passato Prossimo (did)](#passato-prossimo-did)
-    - [Imperfetto (used to do)](#imperfetto-used-to-do)
-  - [Regular Verbs](#regular-verbs)
-  - [Irregular Verbs](#irregular-verbs)
-- [Nouns](#nouns)
-  - [General](#general)
-  - [Animals](#animals)
-  - [Buildings Places](#buildings-places)
-  - [Clothing](#clothing)
-  - [Countries](#countries)
-  - [Food Restaurant](#food-restaurant)
-  - [Furniture](#furniture)
-  - [Numbers](#numbers)
-  - [People](#people)
-  - [Professions](#professions)
-  - [Time Date](#time-date)
-    - [Days](#days)
-    - [Months](#months)
-    - [Seasons](#seasons)
-  - [Transport](#transport)
-- [Adjectives](#adjectives)
-  - [General](#general-1)
-  - [Colours](#colours)
-- [Possesive](#possesive)
-- [Questions](#questions)
-
-
 ## Basics
 
 | Pronoun | m(s)                 | m(pl)       | f   | f(pl) |
@@ -76,29 +41,29 @@ Gaps (?????) will be complete as / when / if I get to them.
 | Voi     | -ete  | -ite  | -ite     | -ite     |
 | Loro    | -ono  | -ono  | -ono     | -iscono  |
 
-#### Futuro (will do)
+#### Futuro semplice (will do)
 
-| Pronoun | -are    | -ere | -ire (1) | -ire (2) |
-|---------|---------|------|----------|----------|
-| Io      | -erò    | ???  | ???      | ???      |
-| Tu      | -erai   | ???  | ???      | ???      |
-| Lui/lei | -erà    | ???  | ???      | ???      |
-| Noi     | -eramo  | ???  | ???      | ???      |
-| Voi     | -erete  | ???  | ???      | ???      |
-| Loro    | -eranno | ???  | ???      | ???      |
+| Pronoun | -are    | -ere    | -ire (1) | -ire (2) |
+|---------|---------|---------|----------|----------|
+| Io      | -erò    | -erò    | -irò     | ???      |
+| Tu      | -erai   | -erai   | -irai    | ???      |
+| Lui/lei | -erà    | -erà    | -irà     | ???      |
+| Noi     | -eramo  | -eramo  | -iramo   | ???      |
+| Voi     | -erete  | -erete  | -irete   | ???      |
+| Loro    | -eranno | -eranno | -iranno  | ???      |
 
-#### Passato Prossimo (did)
+#### Passato Prossimo (did / have done)
 
 With `to have`:
 
-| Pronoun | -are         | -ere | -ire (1) | -ire (2) |
-|---------|--------------|------|----------|----------|
-| Io      | ho -ato      | ???  | ???      | ???      |
-| Tu      | hai -ato     | ???  | ???      | ???      |
-| Lui/lei | ha -ato      | ???  | ???      | ???      |
-| Noi     | abbiamo -ato | ???  | ???      | ???      |
-| Voi     | avete -ato   | ???  | ???      | ???      |
-| Loro    | hanno -ato   | ???  | ???      | ???      |
+| Pronoun | -are         | -ere         | -ire (1)     | -ire (2) |
+|---------|--------------|--------------|--------------|----------|
+| Io      | ho -ato      | ho -uto      | ho -ito      | ???      |
+| Tu      | hai -ato     | hai -uto     | hai -ito     | ???      |
+| Lui/lei | ha -ato      | ha -uto      | ha -ito      | ???      |
+| Noi     | abbiamo -ato | abbiamo -uto | abbiamo -ito | ???      |
+| Voi     | avete -ato   | avete -uto   | avete -ito   | ???      |
+| Loro    | hanno -ato   | hanno -uto   | hanno -ito   | ???      |
 
 or with `to be`:
 
@@ -113,14 +78,14 @@ or with `to be`:
 
 #### Imperfetto (used to do)
 
-| Pronoun | -are   | -ere | -ire (1) | -ire (2) |
-|---------|--------|------|----------|----------|
-| Io      | -avo   | ???  | ???      | ???      |
-| Tu      | -avi   | ???  | ???      | ???      |
-| Lui/lei | -ava   | ???  | ???      | ???      |
-| Noi     | -avamo | ???  | ???      | ???      |
-| Voi     | -avate | ???  | ???      | ???      |
-| Loro    | -avano | ???  | ???      | ???      |
+| Pronoun | -are   | -ere   | -ire (1) | -ire (2) |
+|---------|--------|--------|----------|----------|
+| Io      | -avo   | -evo   | -ivo     | ???      |
+| Tu      | -avi   | -evi   | -ivi     | ???      |
+| Lui/lei | -ava   | -eva   | -iva     | ???      |
+| Noi     | -avamo | -evamo | -ivamo   | ???      |
+| Voi     | -avate | -evate | -ivate   | ???      |
+| Loro    | -avano | -evano | -ivano   | ???      |
 
 ### Regular Verbs
 
