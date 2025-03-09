@@ -99,6 +99,27 @@ a:hover {
 
 table {
     width: 100%;
+    border-collapse: collapse;
+}
+
+tr:first-child {
+    border-top: var(--border-colour-highlight) 1px solid;
+}
+
+tr:last-child {
+    border-bottom: var(--border-colour-highlight) 1px solid;
+}
+
+th:first-child,
+td:first-child {
+    border-left: var(--border-colour-highlight) 1px solid;
+}
+
+th,
+td {
+    border-right: var(--border-colour-highlight) 1px solid;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 th {
