@@ -43,49 +43,49 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 #### Futuro semplice (will do)
 
-| Pronoun | -are    | -ere    | -ire (1) | -ire (2) |
-|---------|---------|---------|----------|----------|
-| Io      | -erò    | -erò    | -irò     | ???      |
-| Tu      | -erai   | -erai   | -irai    | ???      |
-| Lui/lei | -erà    | -erà    | -irà     | ???      |
-| Noi     | -eramo  | -eramo  | -iramo   | ???      |
-| Voi     | -erete  | -erete  | -irete   | ???      |
-| Loro    | -eranno | -eranno | -iranno  | ???      |
+| Pronoun | -are    | -ere    | -ire    |
+|---------|---------|---------|---------|
+| Io      | -erò    | -erò    | -irò    |
+| Tu      | -erai   | -erai   | -irai   |
+| Lui/lei | -erà    | -erà    | -irà    |
+| Noi     | -eramo  | -eramo  | -iramo  |
+| Voi     | -erete  | -erete  | -irete  |
+| Loro    | -eranno | -eranno | -irann  |
 
 #### Passato Prossimo (did / have done)
 
 With `to have`:
 
-| Pronoun | -are         | -ere         | -ire (1)     | -ire (2) |
-|---------|--------------|--------------|--------------|----------|
-| Io      | ho -ato      | ho -uto      | ho -ito      | ???      |
-| Tu      | hai -ato     | hai -uto     | hai -ito     | ???      |
-| Lui/lei | ha -ato      | ha -uto      | ha -ito      | ???      |
-| Noi     | abbiamo -ato | abbiamo -uto | abbiamo -ito | ???      |
-| Voi     | avete -ato   | avete -uto   | avete -ito   | ???      |
-| Loro    | hanno -ato   | hanno -uto   | hanno -ito   | ???      |
+| Pronoun | -are         | -ere         | -ire         |
+|---------|--------------|--------------|--------------|
+| Io      | ho -ato      | ho -uto      | ho -ito      |
+| Tu      | hai -ato     | hai -uto     | hai -ito     |
+| Lui/lei | ha -ato      | ha -uto      | ha -ito      |
+| Noi     | abbiamo -ato | abbiamo -uto | abbiamo -ito |
+| Voi     | avete -ato   | avete -uto   | avete -ito   |
+| Loro    | hanno -ato   | hanno -uto   | hanno -ito   |
 
 or with `to be`:
 
-| Pronoun | -are                                     | -ere | -ire (1) | -ire (2) |
-|---------|------------------------------------------|------|----------|----------|
-| Io      | sono -ato (m)<br/> sono -ata (f)         | ???  | ???      | ???      |
-| Tu      | sei -ato (m)<br/> sei -ata (f)           | ???  | ???      | ???      |
-| Lui/lei | è -ato (m)<br/> è -ata (f)               | ???  | ???      | ???      |
-| Noi     | siamo -ati (m / m+f)<br/> siamo -ate (f) | ???  | ???      | ???      |
-| Voi     | siete -ati (m / m+f)<br/> siete -ate (f) | ???  | ???      | ???      |
-| Loro    | sono -ati (m / m+f)<br/> sone -ate (f)   | ???  | ???      | ???      |
+| Pronoun | -are                                     | -ere | -ire |
+|---------|------------------------------------------|------|------|
+| Io      | sono -ato (m)<br/> sono -ata (f)         | ???  | ???  |
+| Tu      | sei -ato (m)<br/> sei -ata (f)           | ???  | ???  |
+| Lui/lei | è -ato (m)<br/> è -ata (f)               | ???  | ???  |
+| Noi     | siamo -ati (m / m+f)<br/> siamo -ate (f) | ???  | ???  |
+| Voi     | siete -ati (m / m+f)<br/> siete -ate (f) | ???  | ???  |
+| Loro    | sono -ati (m / m+f)<br/> sone -ate (f)   | ???  | ???  |
 
 #### Imperfetto (used to do)
 
-| Pronoun | -are   | -ere   | -ire (1) | -ire (2) |
-|---------|--------|--------|----------|----------|
-| Io      | -avo   | -evo   | -ivo     | ???      |
-| Tu      | -avi   | -evi   | -ivi     | ???      |
-| Lui/lei | -ava   | -eva   | -iva     | ???      |
-| Noi     | -avamo | -evamo | -ivamo   | ???      |
-| Voi     | -avate | -evate | -ivate   | ???      |
-| Loro    | -avano | -evano | -ivano   | ???      |
+| Pronoun | -are   | -ere   | -ire   |
+|---------|--------|--------|--------|
+| Io      | -avo   | -evo   | -ivo   |
+| Tu      | -avi   | -evi   | -ivi   |
+| Lui/lei | -ava   | -eva   | -iva   |
+| Noi     | -avamo | -evamo | -ivamo |
+| Voi     | -avate | -evate | -ivate |
+| Loro    | -avano | -evano | -ivano |
 
 ### Regular Verbs
 
