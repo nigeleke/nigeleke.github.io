@@ -157,6 +157,20 @@ or with `to be`:
 |         |         | voi andate     |        |                  |            |
 |         |         | loro vanno     |        |                  |            |
 
+## Prepositions
+
+|     |                                | il  | lo    | l'    | la    | i   | gli   | le    |
+|-----|--------------------------------|-----|-------|-------|-------|-----|-------|-------|
+| di  | of / from                      | del | dello | dell' | della | dei | degli | delle |
+| a   | to / at                        | al  | allo  | all'  | alla  | ai  | agli  | alle  |
+| da  | from / by / to someone's place | dal | dallo | dall' | dalla | dai | dagli | dalle |
+| in  | in / into / at                 | nel | nello | nell' | nella | nei | negli | nelle |
+| su  | on / about                     | sul | sullo | sull' | sulla | sui | sugli | sulle |
+| con | with                           |     |       |       |       |     |       |       |
+| per | for / in order to              |     |       |       |       |     |       |       |
+| tra | between / in (time)            |     |       |       |       |     |       |       |
+| fra | between / in (time)            |     |       |       |       |     |       |       |
+
 ## Nouns
 
 ### General
