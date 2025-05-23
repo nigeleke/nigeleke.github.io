@@ -5,7 +5,6 @@ use dioxus::prelude::*;
 const FACEBOOK: Asset = asset!("/assets/images/facebook.png");
 const GITHUB: Asset = asset!("/assets/images/github.png");
 const LINKEDIN: Asset = asset!("/assets/images/linkedin.png");
-const STACKOVERFLOW: Asset = asset!("/assets/images/stackoverflow.png");
 
 #[component]
 pub fn Socials() -> Element {
@@ -16,7 +15,6 @@ pub fn Socials() -> Element {
             Social { href: "https://www.facebook.com/nigel.eke", img_src: FACEBOOK, alt: "Nigel's Facebook" }
             Social { href: "https://www.linkedin.com/in/nigeleke/", img_src: LINKEDIN, alt: "Nigel's LinkedIn" }
             Social { href: "https://github.com/nigeleke", img_src: GITHUB, alt: "Nigel's GitHub" }
-            Social { href: "https://stackoverflow.com/users/1460067/nigel-eke", img_src: STACKOVERFLOW, alt: "Nigel's Stackoverflow" }
         }
     }
 }
