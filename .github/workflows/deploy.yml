@@ -18,7 +18,7 @@ jobs:
             - run: rustup update
             - run: cargo install cargo-binstall
             - run: cargo binstall dioxus-cli
-            - run: dx bundle
+            - run: dx bundle --release
 
             - name: Publish
               run: |
