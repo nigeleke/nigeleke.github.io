@@ -15,27 +15,29 @@ use dioxus::prelude::*;
     );
 
     let entries = fs::read_dir("markdown").unwrap();
+    let mut stems = entries
+        .filter_map(|entry| {
+            let entry = entry.unwrap();
+            let path = entry.path();
 
-    for entry in entries {
-        let entry = entry.unwrap();
+            path.extension().and_then(|s| {
+                (s.to_str() == Some("md"))
+                    .then(|| path.file_stem().unwrap().to_str().unwrap().to_string())
+            })
+        })
+        .collect::<Vec<String>>();
+    stems.sort();
 
-        let path = entry.path();
-        if path.extension().and_then(|s| s.to_str()) != Some("md") {
-            continue;
-        }
-
-        let stem = path.file_stem().unwrap().to_str().unwrap();
+    stems.iter().for_each(|stem| {
         let component = to_pascal_case(stem);
         new_content.push_str(&format!(
             r#"markdown_page!({}, "../../markdown/{}.md");
 "#,
             component, stem
         ));
-    }
+    });
 
-    println!("cargo:warning=1");
     if let Ok(current_content) = fs::read_to_string(markdown_pages_rs) {
-        println!("cargo:warning=2");
         if new_content != current_content {
             println!("cargo:warning=3");
             println!("cargo:warning=new {new_content:?}");
