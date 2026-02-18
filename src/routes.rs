@@ -1,4 +1,5 @@
-use crate::components::{Apis, Home, Italian, NotFound, Projects, Reference, UsefulInfo};
+use crate::components::{Home, NotFound};
+use crate::generated::{Apis, Italian, Projects, Reference, UsefulInfo};
 
 use dioxus::prelude::*;
 
