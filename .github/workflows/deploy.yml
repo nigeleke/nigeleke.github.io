@@ -15,10 +15,12 @@ jobs:
               with:
                   fetch-depth: 0
 
-            - run: rustup update
-            - run: cargo install cargo-binstall
-            - run: cargo binstall dioxus-cli
-            - run: dx bundle --release --ssg --debug-symbols=false
+            - run: |
+                  rustup update
+                  cargo install cargo-binstall
+                  cargo binstall dioxus-cli
+                  cargo build
+                  dx bundle --release --ssg --debug-symbols=false
 
             - name: Publish
               run: |

@@ -33,8 +33,13 @@ use dioxus::prelude::*;
         ));
     }
 
+    println!("cargo:warning=1");
     if let Ok(current_content) = fs::read_to_string(markdown_pages_rs) {
+        println!("cargo:warning=2");
         if new_content != current_content {
+            println!("cargo:warning=3");
+            println!("cargo:warning=new {new_content:?}");
+            println!("cargo:warning=cur {current_content:?}");
             fs::write(markdown_pages_rs, new_content).unwrap();
         }
     } else {
