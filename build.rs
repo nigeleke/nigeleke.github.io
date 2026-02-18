@@ -4,9 +4,9 @@ use std::path::Path;
 fn main() {
     println!("cargo:rerun-if-changed=markdown");
 
-    let out_file = Path::new("src/generated/markdown_pages.rs");
+    let markdown_pages_rs = Path::new("src/generated/markdown_pages.rs");
 
-    let mut output = String::from(
+    let mut new_content = String::from(
         r#"use crate::components::{Markdown, Template};
 use crate::markdown_page;
 use dioxus::prelude::*;
@@ -26,14 +26,20 @@ use dioxus::prelude::*;
 
         let stem = path.file_stem().unwrap().to_str().unwrap();
         let component = to_pascal_case(stem);
-        output.push_str(&format!(
+        new_content.push_str(&format!(
             r#"markdown_page!({}, "../../markdown/{}.md");
 "#,
             component, stem
         ));
     }
 
-    fs::write(out_file, output).unwrap();
+    if let Ok(current_content) = fs::read_to_string(markdown_pages_rs) {
+        if new_content != current_content {
+            fs::write(markdown_pages_rs, new_content).unwrap();
+        }
+    } else {
+        fs::write(markdown_pages_rs, new_content).unwrap();
+    }
 }
 
 fn to_pascal_case(s: &str) -> String {
