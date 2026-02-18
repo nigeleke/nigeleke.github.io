@@ -15,17 +15,25 @@ path = "src/lib.rs"
 default = ["web"]
 web = ["dioxus/web"]
 
-[profile]
+[profile.dev]
+opt-level = 0
+debug = true
+overflow-checks = true
+
+[profile.release]
+opt-level = 3
+debug = false
+lto = true
 
 [profile.wasm-dev]
 inherits = "dev"
 opt-level = 1
 
-[profile.server-dev]
-inherits = "dev"
+[profile.wasm-release]
+inherits = "release"
 
-[profile.android-dev]
-inherits = "dev"
+[package.metadata.wasm-pack.profile.dev]
+wasm-opt = false
 
 [package.metadata.wasm-pack.profile.release]
 wasm-opt = false
