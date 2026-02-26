@@ -56,25 +56,25 @@ Gaps (?????) will be complete as / when / if I get to them.
 
 With `to have`:
 
-| Pronoun | -are         | -ere         | -ire         |
-|---------|--------------|--------------|--------------|
-| Io      | ho -ato      | ho -uto      | ho -ito      |
-| Tu      | hai -ato     | hai -uto     | hai -ito     |
-| Lui/lei | ha -ato      | ha -uto      | ha -ito      |
-| Noi     | abbiamo -ato | abbiamo -uto | abbiamo -ito |
-| Voi     | avete -ato   | avete -uto   | avete -ito   |
-| Loro    | hanno -ato   | hanno -uto   | hanno -ito   |
+| Pronoun | ausiliare | -are | -ere | -ire |
+|---------|-----------|------|------|------|
+| Io      | ho        | -ato | -uto | -ito |
+| Tu      | hai       | -ato | -uto | -ito |
+| Lui/lei | ha        | -ato | -uto | -ito |
+| Noi     | abbiamo   | -ato | -uto | -ito |
+| Voi     | avete     | -ato | -uto | -ito |
+| Loro    | hanno     | -ato | -uto | -ito |
 
 or with `to be`:
 
-| Pronoun | -are                                     | -ere | -ire |
-|---------|------------------------------------------|------|------|
-| Io      | sono -ato (m)<br/> sono -ata (f)         | ???  | ???  |
-| Tu      | sei -ato (m)<br/> sei -ata (f)           | ???  | ???  |
-| Lui/lei | è -ato (m)<br/> è -ata (f)               | ???  | ???  |
-| Noi     | siamo -ati (m / m+f)<br/> siamo -ate (f) | ???  | ???  |
-| Voi     | siete -ati (m / m+f)<br/> siete -ate (f) | ???  | ???  |
-| Loro    | sono -ati (m / m+f)<br/> sone -ate (f)   | ???  | ???  |
+| Pronoun | ausiliare | -are                      | -ere                      | -ire                      |
+|---------|-----------|---------------------------|---------------------------|---------------------------|
+| Io      | sono      | -ato (m) / -ata (f)       | -uto (m) / -uta (f)       | -ito (m) / -ita (f)       |
+| Tu      | sei       | -ato (m) / -ata (f)       | -uto (m) / -uta (f)       | -ito (m) / -ita (f)       |
+| Lui/lei | è         | -ato (m) / -ata (f)       | -uto (m) / -uta (f)       | -ito (m) / -ita (f)       |
+| Noi     | siamo     | -ati (m / m+f) / -ate (f) | -uti (m / m+f) / -ute (f) | -iti (m / m+f) / -ite (f) |
+| Voi     | siete     | -ati (m / m+f) / -ate (f) | -uti (m / m+f) / -ute (f) | -iti (m / m+f) / -ite (f) |
+| Loro    | sono      | -ati (m / m+f) / -ate (f) | -uti (m / m+f) / -ute (f) | -iti (m / m+f) / -ite (f) |
 
 #### Imperfetto (used to do)
 
