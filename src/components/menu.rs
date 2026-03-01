@@ -7,7 +7,7 @@ use dioxus::prelude::*;
 pub fn Menu() -> Element {
     let mut menu_button_visible = use_signal(|| false);
 
-    let update_memu_button_visibility = move |event: Event<VisibleData>| {
+    let update_menu_button_visibility = move |event: Event<VisibleData>| {
         if let Ok(bounds) = event.data.get_root_bounds() {
             menu_button_visible.set(bounds != PixelsRect::default());
         }
@@ -19,7 +19,7 @@ pub fn Menu() -> Element {
             button {
                 class: "menu-button",
                 popovertarget: "menu-nav",
-                onvisible: update_memu_button_visibility,
+                onvisible: update_menu_button_visibility,
                 tabindex: "0",
                 img {
                     class: "menu-icon",
